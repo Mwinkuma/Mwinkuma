@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mwinkuma
 - 👀 I’m interested in web development, ethical hacking, mobile app development
-- 🌱 I’m currently learning we HTML, Css and Javascript
+- 🌱 I’m currently learning HTML, Css and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: send me a dm on instagram @mwinkuma_d or an email:kuunapordoreen@gmail.com
 
